@@ -1,5 +1,1 @@
-def hello():
-    print('hello Bro')
-
-
-hello()
+print('My first git-repo')
